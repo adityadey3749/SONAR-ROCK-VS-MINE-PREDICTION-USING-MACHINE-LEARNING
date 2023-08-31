@@ -27,3 +27,4 @@ https://drive.google.com/file/d/1pQxtljlNVh0DHYg-Ye7dtpDTlFceHVfa/view
 20. Reshaping of input data as numpy array was performed.
 21. prediction = model.predict(input_data_reshaped)    print("Prediction - ", prediction)
 22. Again Prediction is done, whether it's a Rock or Mine.
+23. These include Train, Test and Validate sets.
